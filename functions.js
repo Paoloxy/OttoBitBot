@@ -8,7 +8,7 @@ const { kMaxLength } = require('buffer');
 const rimraf = require('rimraf');
 const { UV_FS_O_FILEMAP } = require('constants');
 
-const token = '437824992:AAHHjUJ2fsap4IK6c61iI4_j-8G9HaXxYpM';
+const token = '4%';
 const bot = new TelegramBot(token, {polling: true});
 
 const fakeGroup = -490939625;
