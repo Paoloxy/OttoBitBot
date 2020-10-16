@@ -1,0 +1,19 @@
+{
+  "name": "8bitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paoloù",
+  "license": "ISC",
+  "dependencies": {
+    "8bit": "^1.0.1",
+    "mkdirp": "^1.0.4",
+    "node-json-db": "^1.1.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "rimraf": "^3.0.2",
+    "sharp": "^0.26.1"
+  }
+}
